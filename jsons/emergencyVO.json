@@ -1,0 +1,9 @@
+{
+  "cleanerName": "",
+  "content": "",
+  "createTime": "",
+  "@JsonKey(name:'id') int": "id",
+  "images": "",
+  "organizationBranchName": "",
+  "title": ""
+}

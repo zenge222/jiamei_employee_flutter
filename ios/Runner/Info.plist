@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>嘉美家庭服务师</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>是否允许App访问您的媒体资料库</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>App需要您的同意，才能访问使用日历</string>
+	<key>NSCameraUsageDescription</key>
+	<string>APP需要您的同意，才能访问相机进行拍摄打扫信息，如禁止将无法拍照拍摄图片无法更新信息
+
+        APP需要您的同意，才能访问相机进行拍摄上传图片，如禁止将无法修改头像或者拍摄照片</string>
+	<key>NSContactsUsageDescription</key>
+	<string>APP需要您的同意，才能访问通讯录识别用户，如禁止将无法识别用户</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App需要您的同意，才能定位获取附近网点</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App需要您的同意，才能定位获取附近网点</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>App需要您的同意,才能访问麦克风进行语音识别转换/录制音频，如禁止将无法识别语音转换/录制音频发送</string>
+	<key>NSMotionUsageDescription</key>
+	<string>App需要您的同意，才能访问运动与健身</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>APP需要您的同意，才能访问相册进行选择照片上传/发布信息，如禁止将无法上传选择照片上传/发布信息</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>App需要您的同意，才能访问语音识别</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

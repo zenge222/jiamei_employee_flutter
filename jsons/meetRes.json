@@ -1,0 +1,5 @@
+{
+  "@JsonKey(name:'code') int": "code",
+  "message": "",
+  "data": "$[]meetListVO"
+}
